@@ -1,1 +1,2 @@
-# coviddata
+# Canada’s 2022 COVID-19 Behavior Data
+This academic project aimed to gain insights from Canada’s 2022 COVID-19 Behavior Data, which captures a range of COVID-19-related behaviors, including symptoms, testing, isolation, social distancing, and vaccination. Through a systematic process of data preparation, exploratory data analysis, and K-Nearest Neighbors (K-NN) model training and testing, we developed an effective classification model to predict the likelihood of receiving a COVID-19 booster or third dose.
